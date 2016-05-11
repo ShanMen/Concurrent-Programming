@@ -1,2 +1,2 @@
 # Concurrent-Programming
-Lecturer
+All the codes for concurrent programming. 
